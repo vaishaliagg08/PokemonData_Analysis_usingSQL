@@ -1,12 +1,12 @@
 # PokemonData_Analysis
 ## Project Overview
-This project focuses on analyzing and managing Pokémon data using a fully normalized relational database built in **MySQL**. 
+This project focuses on analyzing and managing Pokemon data using a fully normalized relational database built in **MySQL**. 
 The goal is to design an efficient schema that captures essential Pokémon attributes (types, stats, abilities, moves, and effectiveness) while allowing 
 **complex analytical queries** and battle simulations.
 
 ## Objectives
 
-- Normalize Pokémon data into multiple related tables.
+- Normalize Pokemon data into multiple related tables.
 - Store Pokémon, types, abilities, stats, and move effectiveness.
 - Write advanced SQL queries for insights such as top Pokémon, weaknesses, and damage multipliers.
 - Extend queries towards a mini battle simulator. 
@@ -98,5 +98,5 @@ The goal is to design an efficient schema that captures essential Pokémon attri
 <img width="905" height="691" alt="Screenshot 2025-08-18 at 9 34 59 PM" src="https://github.com/user-attachments/assets/1d9bc88f-f72e-43cd-980c-d20bb7258b46" />
 
 ## Conclusion
-This project successfully demonstrates how a raw Pokémon dataset can be transformed into a fully normalized relational database schema using MySQL. 
+This project successfully demonstrates how a raw Pokemon dataset can be transformed into a fully normalized relational database schema using MySQL. 
 By applying 1NF, 2NF, and 3NF, we reduced redundancy, improved data consistency, and built a scalable structure for complex queries.
