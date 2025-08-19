@@ -97,6 +97,11 @@ The goal is to design an efficient schema that captures essential Pokémon attri
 ## ER-Diagram
 <img width="905" height="691" alt="Screenshot 2025-08-18 at 9 34 59 PM" src="https://github.com/user-attachments/assets/1d9bc88f-f72e-43cd-980c-d20bb7258b46" />
 
+## Normalization Approach 
+- **1NF (First Normal Form)**: Removed repeating groups (types, abilities, moves stored as CSV → split into separate rows).
+- **2NF (Second Normal Form)**: Moved multi-valued dependencies into separate tables (pokemon_types, pokemon_abilities, etc.).
+- **3NF (Third Normal Form)**: Removed transitive dependencies by introducing lookup tables (types, abilities, moves, stats).
+
 ## Conclusion
 This project demonstrates how database normalization improves efficiency, scalability, and analytical capabilities.
 The Pokémon database is now a powerful analytical tool that supports deep insights into Pokémon characteristics, abilities, and performance.
