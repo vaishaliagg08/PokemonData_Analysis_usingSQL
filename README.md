@@ -104,4 +104,4 @@ The goal is to design an efficient schema that captures essential Pokémon attri
 
 ## Conclusion
 This project demonstrates how database normalization improves efficiency, scalability, and analytical capabilities.
-The Pokémon database is now a powerful analytical tool that supports deep insights into Pokémon characteristics, abilities, and performance.
+The Pokemon database is now a powerful analytical tool that supports deep insights into Pokémon characteristics, abilities, and performance.
