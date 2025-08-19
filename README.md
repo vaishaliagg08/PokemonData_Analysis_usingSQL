@@ -98,5 +98,5 @@ The goal is to design an efficient schema that captures essential Pokémon attri
 <img width="905" height="691" alt="Screenshot 2025-08-18 at 9 34 59 PM" src="https://github.com/user-attachments/assets/1d9bc88f-f72e-43cd-980c-d20bb7258b46" />
 
 ## Conclusion
-This project successfully demonstrates how a raw Pokemon dataset can be transformed into a fully normalized relational database schema using MySQL. 
-By applying 1NF, 2NF, and 3NF, we reduced redundancy, improved data consistency, and built a scalable structure for complex queries.
+This project demonstrates how database normalization improves efficiency, scalability, and analytical capabilities.
+The Pokémon database is now a powerful analytical tool that supports deep insights into Pokémon characteristics, abilities, and performance.
