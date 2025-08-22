@@ -1,7 +1,7 @@
 # PokemonData_Analysis
 ## Project Overview
 This project focuses on analyzing and managing Pokemon data using a fully normalized relational database built in **MySQL**. 
-The goal is to design an efficient schema that captures essential Pokémon attributes (types, stats, abilities, moves, and effectiveness) while allowing 
+The goal is to design an efficient schema that captures essential Pokemon attributes (types, stats, abilities, moves, and effectiveness) while allowing 
 **complex analytical queries** and battle simulations.
 
 ## Objectives
